@@ -1,0 +1,52 @@
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    border: 1px solid #eee;
+}
+
+th,
+td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #f5f5f5;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.content {
+    width: 750px;
+    margin: 0 auto;
+    text-align: justify;
+    font-size: 18px;
+
+}
+
+.content>*:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+#educationChart,
+#topLanguageChart,
+#positionChart,
+#highestAvgSchool,
+#educationLevelChart {
+    width: 60%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+#genderRatioChart {
+    width: 40%;
+    margin: 0 auto;
+}

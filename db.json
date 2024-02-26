@@ -1,0 +1,112 @@
+{
+    "candidates": [
+        {
+            "id": 1,
+            "candidate_name": "Bùi Hoàng Anh",
+            "dob": "01-01-2004",
+            "education": "Fpoly",
+            "education_level": "Cao đẳng",
+            "gender": "Nam",
+            "year": "Năm hai",
+            "position": "FE",
+            "language": ["Javascript", "PHP", "Java", "Go"],
+            "score": 95
+        },
+        {
+            "id": 2,
+            "candidate_name": "Nguyễn Thị Lan",
+            "dob": "15-05-2003",
+            "education": "Sư phạm",
+            "education_level": "Đại học",
+            "gender": "Nữ",
+            "year": "Năm hai",
+            "position": "BE",
+            "language": ["Java", "PHP"],
+            "score": 75
+        },
+        {
+            "id": 3,
+            "candidate_name": "Trần Văn Đức",
+            "dob": "10-09-2002",
+            "education": "Bách khoa",
+            "education_level": "Đại học",
+            "gender": "Nam",
+            "year": "Năm ba",
+            "position": "FE",
+            "language": ["Javascript", "Go"],
+            "score": 85
+        },
+        {
+            "id": 4,
+            "candidate_name": "Phạm Thị Hồng",
+            "dob": "20-03-2004",
+            "education": "Kinh tế",
+            "education_level": "Đại học",
+            "gender": "Nữ",
+            "year": "Năm nhất",
+            "position": "BE",
+            "language": ["Java", "PHP", "Go"],
+            "score": 70
+        },
+        {
+            "id": 5,
+            "candidate_name": "Trần Thị B",
+            "dob": "12-12-2002",
+            "education": "FPT",
+            "education_level": "Đại học",
+            "gender": "Nữ",
+            "year": "Năm hai",
+            "position": "FE",
+            "language": ["Javascript", "Python", "PHP"],
+            "score": 78
+        },
+        {
+            "id": 6,
+            "candidate_name": "Hoàng Văn C",
+            "dob": "20-05-2003",
+            "education": "Fpoly",
+            "education_level": "Cao đẳng",
+            "gender": "Nam",
+            "year": "Năm nhất",
+            "position": "FE",
+            "language": ["Javascript", "Java", "C#"],
+            "score": 82
+        },
+        {
+            "id": 7,
+            "candidate_name": "Lê Thị D",
+            "dob": "03-08-2004",
+            "education": "Sư phạm",
+            "education_level": "Đại học",
+            "gender": "Nữ",
+            "year": "Năm ba",
+            "position": "BE",
+            "language": ["Python", "PHP", "Go"],
+            "score": 85
+        },
+        {
+            "id": 8,
+            "candidate_name": "Nguyễn Văn E",
+            "dob": "17-11-2002",
+            "education": "FPT",
+            "education_level": "Đại học",
+            "gender": "Nam",
+            "year": "Năm hai",
+            "position": "BE",
+            "language": ["Java", "PHP", "Go"],
+            "score": 79
+        },
+        {
+            "id": 9,
+            "candidate_name": "Trần Thị F",
+            "dob": "25-02-2003",
+            "education": "Fpoly",
+            "education_level": "Cao đẳng",
+            "gender": "Nữ",
+            "year": "Năm nhất",
+            "position": "FE",
+            "language": ["Javascript", "Python", "Java"],
+            "score": 73
+        }
+    ]
+}
